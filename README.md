@@ -1,7 +1,5 @@
 # Product Management Terms and Definitions to learn
 
-# Product Terms
-
 - Startups
 	- Lean
 		- Lean Startup
