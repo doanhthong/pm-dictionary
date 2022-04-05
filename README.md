@@ -1,3 +1,77 @@
 # Product Management Terms and Definitions to learn
 
-Product Management Terms and Definitions to learn
+# Product Terms
+
+- Startups
+	- Lean
+		- Lean Startup
+		- Lean UX
+- Product Management
+	- Product Discovery
+		- Problem Definition
+		- [Product Requirements Document (PRD)](https://centroly.com/anthonytd/product-requirements-document-prd-templates-94oqx4yl76)
+		- User Journey
+		- Job-to-be-done JTBD
+		- Prioritization
+			- Kano Model
+			- ICE, RICE
+		- Competition
+			- Competitive landscape
+			- Competitive analysis
+		- Definition of Done
+	- Product Delivery
+		- Project Management
+			- Agile / Scrum
+			- Waterfall
+			- Backlog
+			- Epic
+			- User Story
+		- Iteration
+		- Data Analytics
+			- Product Analytics
+			- HEART Framework
+			- TARS framework
+			- A/B Test
+- Product Design
+	- User Experience
+	- Usability Test
+	- GUI
+	- CLI
+	- Design Ops
+	- Hook Model
+- Product Leadership
+	- Product Strategy Stack
+		- Product Vision
+		- Product Mission
+		- Product Strategy
+		- Product Roadmap
+		- Team Topology
+	- Org Design
+	- Goal Settings
+		- OKRs
+		- [NCTs](https://centroly.com/b/set-better-goals-with-ncts-not-okrs-reforge-gvr7wo0n65)
+	- Cannibalization
+	- Product Ops
+- Growth
+	- AARRR
+		- Acquisition
+		- Activation
+		- Retention
+		- Revenue
+		- Referral
+	- Customer Acquisition Cost - CAC
+	- Lifetime value - LTV
+- Business
+	- Monetization
+	- Pricing model
+	- Business Model
+		- SaaS
+		- B2B
+		- B2C
+		- C2C
+		- Marketplace
+- Technical
+	- APIs
+	- Back-end, Front-end
+	- Data Warehouse
+	- CI/CD
